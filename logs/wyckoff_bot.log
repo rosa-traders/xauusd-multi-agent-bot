@@ -1,0 +1,116 @@
+2026-09-19 14:52:45 - INFO - [Macro_H4] Tracking Institutional Bias...
+2026-09-19 14:52:45 - INFO - [Intermediate_M15] Hunting for Liquidity Sweeps...
+2026-09-19 14:52:45 - INFO - [Micro_M1] Waiting for Liquidity Sweeps to execute FVGs...
+2026-09-19 14:52:45 - INFO - [Manager] Monitoring open positions for Break-Even triggers...
+2026-09-19 14:52:45 - INFO - Multi-agent system running. Press Ctrl+C to stop.
+2026-09-19 14:56:53 - INFO - 
+Shutting down safely...
+2026-09-19 14:56:53 - INFO - Shutdown complete.
+2026-09-19 14:56:56 - INFO - [Macro_H4] Tracking Institutional Bias...
+2026-09-19 14:56:56 - INFO - [Intermediate_M15] Hunting for Liquidity Sweeps...
+2026-09-19 14:56:56 - INFO - [Micro_M1] Waiting for Liquidity Sweeps to execute FVGs...
+2026-09-19 14:56:56 - INFO - [Manager] Monitoring open positions for Break-Even triggers...
+2026-09-19 14:56:56 - INFO - Multi-agent system running. Press Ctrl+C to stop.
+2026-09-19 15:04:01 - INFO - 
+Shutting down safely...
+2026-09-19 15:04:01 - INFO - Shutdown complete.
+2026-09-19 15:04:09 - INFO - [Macro_H4] Tracking Institutional Bias...
+2026-09-19 15:04:09 - INFO - [Intermediate_M15] Hunting for Liquidity Sweeps...
+2026-09-19 15:04:09 - INFO - [Micro_M1] Waiting for Liquidity Sweeps to execute FVGs...
+2026-09-19 15:04:09 - INFO - [Swing_H1] Scanning for H1 structural FVGs inside Macro POI...
+2026-09-19 15:04:09 - INFO - [Manager] Monitoring open positions for Break-Even triggers...
+2026-09-19 15:04:50 - INFO - [Macro_H4] Tracking Institutional Bias...
+2026-09-19 15:04:50 - INFO - [Intermediate_M15] Hunting for Liquidity Sweeps...
+2026-09-19 15:04:50 - INFO - [Micro_M1] Waiting for Liquidity Sweeps to execute FVGs...
+2026-09-19 15:04:50 - INFO - [Swing_H1] Scanning for H1 structural FVGs inside Macro POI...
+2026-09-19 15:04:50 - INFO - [Manager] Monitoring open positions for Break-Even triggers...
+2026-09-19 15:04:50 - INFO - Multi-agent system running. Press Ctrl+C to stop.
+2026-09-19 15:09:03 - INFO - 
+Shutting down safely...
+2026-09-19 15:09:03 - INFO - Shutdown complete.
+2026-09-19 15:09:06 - INFO - [Macro_H4] Started.
+2026-09-19 15:09:06 - INFO - [Intermediate_M15] Started.
+2026-09-19 15:09:06 - INFO - [Swing_H1] Started.
+2026-09-19 15:09:06 - INFO - [Micro_M1] Started.
+2026-09-19 15:09:06 - INFO - [Manager] Started.
+2026-09-19 15:09:06 - INFO - System running. Access Dashboard at http://127.0.0.1:8000. Press Ctrl+C to stop.
+2026-09-19 15:22:38 - INFO - Shutting down...
+2026-09-19 15:41:05 - INFO - [Telemetry] Thread started.
+2026-09-19 15:41:05 - INFO - [Macro_H4] Thread started.
+2026-09-19 15:41:05 - INFO - [Killzone_M15] Thread started.
+2026-09-19 15:41:05 - INFO - [Swing_H1] Thread started.
+2026-09-19 15:41:05 - INFO - [Micro_M1] Thread started.
+2026-09-19 15:41:05 - INFO - [Manager] Thread started.
+2026-09-19 15:41:05 - INFO - System online. Dashboard available at http://127.0.0.1:8000. Press Ctrl+C to stop.
+2026-09-20 07:54:33 - INFO - Shutting down cleanly...
+2026-09-20 07:54:33 - INFO - Shutdown complete.
+2026-09-20 07:55:16 - INFO - [Telemetry] Thread started.
+2026-09-20 07:55:16 - INFO - [Macro_H4] Thread started.
+2026-09-20 07:55:16 - INFO - [Killzone_M15] Thread started.
+2026-09-20 07:55:16 - INFO - [Swing_H1] Thread started.
+2026-09-20 07:55:16 - INFO - [Micro_M1] Thread started.
+2026-09-20 07:55:16 - INFO - [Manager] Thread started.
+2026-09-20 07:55:16 - INFO - System online. Dashboard available at http://127.0.0.1:8000. Press Ctrl+C to stop.
+2026-09-20 07:55:26 - CRITICAL - !! FATAL: MT5 TERMINAL DISCONNECTED OR CLOSED !!
+2026-09-20 07:55:26 - INFO - Shutting down cleanly...
+2026-09-20 07:55:26 - INFO - Shutdown complete.
+2026-09-20 07:55:40 - INFO - [Telemetry] Thread started.
+2026-09-20 07:55:40 - INFO - [Macro_H4] Thread started.
+2026-09-20 07:55:40 - INFO - [Killzone_M15] Thread started.
+2026-09-20 07:55:40 - INFO - [Swing_H1] Thread started.
+2026-09-20 07:55:40 - INFO - [Micro_M1] Thread started.
+2026-09-20 07:55:40 - INFO - [Manager] Thread started.
+2026-09-20 07:55:40 - INFO - System online. Dashboard available at http://127.0.0.1:8000. Press Ctrl+C to stop.
+2026-09-20 08:12:51 - INFO - Keyboard interrupt received.
+2026-09-20 08:12:51 - INFO - Shutting down cleanly...
+2026-09-20 08:12:51 - INFO - Shutdown complete.
+2026-09-20 08:12:54 - INFO - Macro_H4 - [Macro_H4] Started.
+2026-09-20 08:12:54 - INFO - Killzone_M15 - [Killzone_M15] Started.
+2026-09-20 08:12:54 - INFO - Swing_H1 - [Swing_H1] Started.
+2026-09-20 08:12:54 - INFO - Micro_M1 - [Micro_M1] Started.
+2026-09-20 08:12:54 - INFO - Manager - [Manager] Started.
+2026-09-20 08:12:54 - INFO - Telemetry - [Telemetry] Started.
+2026-09-20 08:12:54 - INFO - MainThread - System running. Dashboard: http://127.0.0.1:8000  (Ctrl+C to stop)
+2026-09-20 08:42:05 - INFO - MainThread - Keyboard interrupt received.
+2026-09-20 08:42:05 - INFO - MainThread - Shutting down cleanly...
+2026-09-20 08:42:05 - INFO - MainThread - Shutdown complete.
+2026-09-20 08:42:11 - INFO - Macro_H4 - [Macro_H4] Started.
+2026-09-20 08:42:11 - INFO - Killzone_M15 - [Killzone_M15] Started.
+2026-09-20 08:42:11 - INFO - Swing_H1 - [Swing_H1] Started.
+2026-09-20 08:42:11 - INFO - Micro_M1 - [Micro_M1] Started.
+2026-09-20 08:42:11 - INFO - LevelSweep - [LevelSweep] Started.
+2026-09-20 08:42:11 - INFO - Manager - [Manager] Started.
+2026-09-20 08:42:11 - INFO - LevelSweep - [LevelSweep] BEARISH_SWEEP of PDH 4380.82 (extreme 4383.06): score 5 [sweep+1 reject+1 bias+1 H4zone+2] -> B
+2026-09-20 08:42:11 - INFO - Telemetry - [Telemetry] Started.
+2026-09-20 08:42:11 - INFO - LevelSweep - [LevelSweep] FVG trigger after PDH sweep (score 5, grade B).
+2026-09-20 08:42:11 - INFO - MainThread - System running. Dashboard: http://127.0.0.1:8000  (Ctrl+C to stop)
+2026-09-20 08:42:11 - ERROR - LevelSweep - [LevelSweep] Error in step(): module 'MetaTrader5' has no attribute 'SYMBOL_FILLING_IOC'
+Traceback (most recent call last):
+  File "C:\agentic_trade\code\fractal_wyckoff_bot_gemini_v4.py", line 350, in run
+    self.step()
+    ~~~~~~~~~^^
+  File "C:\agentic_trade\code\fractal_wyckoff_bot_gemini_v4.py", line 1182, in step
+    self._check_trigger()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\agentic_trade\code\fractal_wyckoff_bot_gemini_v4.py", line 1101, in _check_trigger
+    if self.execute_trade(p['direction'], p['extreme'], tag=tag, risk_pct=p['risk']):
+       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\agentic_trade\code\fractal_wyckoff_bot_gemini_v4.py", line 692, in execute_trade
+    "type_filling": self._filling_mode(info),
+                    ~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\agentic_trade\code\fractal_wyckoff_bot_gemini_v4.py", line 588, in _filling_mode
+    if info.filling_mode & mt5.SYMBOL_FILLING_IOC:
+                           ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'MetaTrader5' has no attribute 'SYMBOL_FILLING_IOC'. Did you mean: 'ORDER_FILLING_IOC'?
+2026-09-20 08:52:33 - INFO - MainThread - Keyboard interrupt received.
+2026-09-20 08:52:33 - INFO - MainThread - Shutting down cleanly...
+2026-09-20 08:52:33 - INFO - MainThread - Shutdown complete.
+2026-09-20 08:52:38 - INFO - Macro_H4 - [Macro_H4] Started.
+2026-09-20 08:52:38 - INFO - Killzone_M15 - [Killzone_M15] Started.
+2026-09-20 08:52:38 - INFO - Swing_H1 - [Swing_H1] Started.
+2026-09-20 08:52:38 - INFO - Micro_M1 - [Micro_M1] Started.
+2026-09-20 08:52:38 - INFO - LevelSweep - [LevelSweep] Started.
+2026-09-20 08:52:38 - INFO - Manager - [Manager] Started.
+2026-09-20 08:52:38 - INFO - LevelSweep - [LevelSweep] BEARISH_SWEEP of PDH 4380.82 (extreme 4383.06): score 5 [sweep+1 reject+1 bias+1 H4zone+2] -> B
+2026-09-20 08:52:38 - INFO - Telemetry - [Telemetry] Started.
+2026-09-20 08:52:38 - INFO - LevelSweep - [LevelSweep] FVG trigger after PDH sweep (score 5, grade B).
