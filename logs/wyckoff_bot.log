@@ -114,3 +114,18 @@ AttributeError: module 'MetaTrader5' has no attribute 'SYMBOL_FILLING_IOC'. Did 
 2026-09-20 08:52:38 - INFO - LevelSweep - [LevelSweep] BEARISH_SWEEP of PDH 4380.82 (extreme 4383.06): score 5 [sweep+1 reject+1 bias+1 H4zone+2] -> B
 2026-09-20 08:52:38 - INFO - Telemetry - [Telemetry] Started.
 2026-09-20 08:52:38 - INFO - LevelSweep - [LevelSweep] FVG trigger after PDH sweep (score 5, grade B).
+2026-09-20 08:52:38 - INFO - MainThread - System running. Dashboard: http://127.0.0.1:8000  (Ctrl+C to stop)
+2026-09-20 08:52:38 - WARNING - LevelSweep - [LevelSweep] Trade rejected: retcode=10018 Market closed
+2026-09-20 09:37:40 - INFO - LevelSweep - [LevelSweep] Armed setup expired without a trigger.
+2026-09-20 10:24:27 - INFO - MainThread - Keyboard interrupt received.
+2026-09-20 10:24:27 - INFO - MainThread - Shutting down cleanly...
+2026-09-20 10:24:27 - INFO - MainThread - Shutdown complete.
+2026-09-20 10:24:41 - INFO - Macro_H4 - [Macro_H4] Started.
+2026-09-20 10:24:41 - INFO - Killzone_M15 - [Killzone_M15] Started.
+2026-09-20 10:24:41 - INFO - Swing_H1 - [Swing_H1] Started.
+2026-09-20 10:24:41 - INFO - LevelSweep - [LevelSweep] Started.
+2026-09-20 10:24:41 - INFO - Continuation_M5 - [Continuation_M5] Started.
+2026-09-20 10:24:41 - INFO - LevelSweep - [LevelSweep] BEARISH_SWEEP of PDH 4380.82 (extreme 4383.06): score 3 [sweep+1 reject+1 bias+1] -> no trade
+2026-09-20 10:24:41 - INFO - Manager - [Manager] Started.
+2026-09-20 10:24:41 - INFO - Telemetry - [Telemetry] Started.
+2026-09-20 10:24:41 - INFO - MainThread - System online. Dashboard: http://127.0.0.1:8000 (Ctrl+C to stop)
